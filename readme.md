@@ -34,6 +34,16 @@ Toutes les fonctions sont commentées permettant une meilleure compréhension de
 
 ### Exécution
 
+#### Pre-requis 
+
+- Installer node [voir le site officiel](https://nodejs.org/fr)
+- Installer ts-node
+```bash
+    npm install -g ts-node
+```
+
+#### Commande d'exécution
+
 ```bash
     ts-node Main.ts
 ```
