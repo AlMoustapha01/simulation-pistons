@@ -31,3 +31,9 @@ Nous disposons de trois(3) principaux fichiers qui sont classé comme suit:
  - **Main.ts** est la classe principale qui exécute un exemple de notre solution.
 
 Toutes les fonctions sont commentées permettant une meilleure compréhension de notre solution.
+
+### Exécution
+
+```bash
+    ts-node Main.ts
+```
