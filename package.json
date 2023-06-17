@@ -1,0 +1,19 @@
+{
+  "name": "Test_Cinetpay",
+  "version": "1.0.0",
+  "description": "TEST TO INTEGRATE CINETPAY",
+  "main": "index.js",
+  "repository": "git@github.com:AlMoustapha01/simulation-pistons.git",
+  "author": "AlMoustapha01 <doumbiaalmoustapha@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^20.3.1",
+    "@types/prompt-sync": "^4.2.0",
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  }
+}

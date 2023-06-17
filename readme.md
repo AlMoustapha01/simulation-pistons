@@ -41,9 +41,13 @@ Toutes les fonctions sont commentées permettant une meilleure compréhension de
 ```bash
     npm install -g ts-node
 ```
+- Installer les dependances
+```bash
+    npm install
+```
 
 #### Commande d'exécution
 
 ```bash
-    ts-node Main.ts
+    npm start
 ```
